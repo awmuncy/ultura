@@ -4,7 +4,23 @@
       "mcp__claude_ai_Linear__list_teams",
       "mcp__claude_ai_Linear__list_issues",
       "Bash(npx codemetrics-cli:*)",
-      "Bash(yarn gen-api:local)"
+      "Bash(yarn gen-api:local)",
+      "mcp__claude_ai_Linear__list_projects",
+      "mcp__claude_ai_Linear__get_project",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(npm install:*)",
+      "Bash(npx prisma:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx typescript:*)",
+      "Bash(npx -p typescript tsc --noEmit)",
+      "Bash(node_modules/.bin/tsc --noEmit)",
+      "Bash(npm ls:*)",
+      "Bash(./node_modules/typescript/bin/tsc --noEmit)",
+      "Bash(curl -s http://localhost:3000/health)",
+      "Bash(npm run:*)",
+      "Bash(grep -l \"boomerang\\\\|Boomerang\" /c/Users/allen/Documents/Projects/Ultura/fe/network/generated/commons/generated/api/*.ts /c/Users/allen/Documents/Projects/Ultura/fe/network/generated/commons/generated/model/*.ts)",
+      "Bash(npx expo:*)",
+      "mcp__claude_ai_Linear__create_document"
     ]
   }
 }
