@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Linear__list_teams",
+      "mcp__claude_ai_Linear__list_issues",
+      "Bash(npx codemetrics-cli:*)",
+      "Bash(yarn gen-api:local)"
+    ]
+  }
+}
